@@ -1,0 +1,18 @@
+* {
+    font-family: codepen, sans-serif;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 80px;
+    background-image: url("balanca.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:rgb(255, 255, 255);
+}
